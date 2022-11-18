@@ -1,0 +1,13 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 1144px;
+  max-height: 980px;
+}
+
+.header__wrapper {
+  margin-top: 46px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
